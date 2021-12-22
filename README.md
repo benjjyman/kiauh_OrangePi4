@@ -6,7 +6,7 @@ an alternative to the RaspberryPI.
 
 Will order a OrangePiZero2 when restocked(silicon shortage?)
 
-So far I havent had to change anything, Kaiuh has handled everything I have asked it to do. Though my Klipper and Fluidd/Mainsail experience is so what new. (still figuring out macros)
+So far I havent had to change anything, Kaiuh has handled everything I have asked it to do. Though my Klipper and Fluidd/Mainsail experience is some what new. (still figuring out macros)
 
 
 original releases :- https://github.com/th33xitus/kiauh/releases
